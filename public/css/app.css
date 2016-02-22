@@ -1,0 +1,9 @@
+.form-control {
+    border-radius: 3px;
+}
+
+
+th.th-label {
+    width: 120px;
+    /*text-align: right;*/
+}
